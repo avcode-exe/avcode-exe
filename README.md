@@ -28,3 +28,8 @@ Facts of me
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=avcode-exe&theme=ambient_gradient" alt="avcode-exe" /></p>
 
+<h3 align="left">Good Repo 📃</h3>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=avcode-exe&repo=Snake-game)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=avcode-exe&repo=web-page-for-ai-bots.github.com)](https://github.com/anuraghazra/github-readme-stats)
