@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tom</h1>
-<h3 align="center">A programmer who does not know what he is doing 😂</h3>
+<h3 align="center">A programmer who does not know what he is doing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avcode-exe&label=Profile%20views&color=0e75b6&style=flat" alt="avcode-exe" /> </p>
 
@@ -30,5 +30,3 @@ Facts of me
 <h3 align="left">Good Repo 📃</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=avcode-exe&repo=Snake-game)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=avcode-exe&repo=web-page-for-ai-bots.github.com)](https://github.com/anuraghazra/github-readme-stats)
